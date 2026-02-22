@@ -50,11 +50,6 @@ I’m focused on strengthening my foundations in algorithms, data structures, an
 
 ---
 
-## 📊 GitHub Stats
-
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=noxxtacz&show_icons=true&theme=tokyonight)
-
----
 
 ✨ “Discipline and consistency build mastery.”
 <!---
